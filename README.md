@@ -2,7 +2,7 @@
 
 ## Setup and Interaction Instructions
 
-To run the sketch locally, open `index.html` in Google Chrome using Live Server.
+To run the sketch locally, open `https://ywquach.github.io/ywquach_SQ_W5/` in Google Chrome using Live Server.
 
 **Controls:** WASD to move.
 
